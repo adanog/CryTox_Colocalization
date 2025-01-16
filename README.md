@@ -49,6 +49,7 @@ You can install the dependencies using pip:
 
 ### Prepare Input Files
 - Place Olympus OIB files and associated ROI zip files in the `data/` directory (you need to create the directory).
+- Data can be downloaded from the Bioimage Archive, accession number WORK IN PROGRESS. 
 
 ### Run the Notebooks
 - Open and execute the Jupyter notebooks in the provided order:
