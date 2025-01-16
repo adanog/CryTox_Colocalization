@@ -17,6 +17,18 @@ The repository includes Jupyter notebooks that automate the following tasks:
 - **Statistical Analysis**: Use of Kruskal-Wallis H-tests and Tukey's HSD for comparing experimental conditions.
 - **Visualization**: Generation of PDF files with boxplots and violin plots for clear data representation.
 
+## Repository Structure
+
+`CryVipTox_Colocalization_Study/
+│
+├── 01_oib2ome-zarr_full_batch.ipynb         # Conversion of OIB files to OME-Zarr format
+├── 02_MSSR_Manders_Colocalization_batch.ipynb  # MSSR application and MOC calculations
+├── 03_Vesicles_Organels_Toxin-Interaction_Analysis.ipynb  # Statistical analysis and visualizations
+│
+├── data/                                    # Folder for input microscopy data
+├── results/                                 # Output files including PDF plots and statistical summaries
+├── README.md                                # Documentation for repository
+└── LICENSE                                  # BSD-3-Clause license file`
 
 ## Installation
 
@@ -42,7 +54,7 @@ To run the notebooks, ensure the following dependencies are installed:
 
 You can install the dependencies using pip:
 
-pip install numpy pandas matplotlib scipy statsmodels scikit-image natsort ome-zarr oiffile read_roi roifile napari-superres zarr
+`pip install numpy pandas matplotlib scipy statsmodels scikit-image natsort ome-zarr oiffile read_roi roifile napari-superres zarr`
 
 
 ## Usage
