@@ -26,7 +26,63 @@ CryVipTox_Colocalization_Study/
 ├── 02_MSSR_Manders_Colocalization_batch.ipynb  # MSSR application and MOC calculations
 ├── 03_Vesicles_Organels_Toxin-Interaction_Analysis.ipynb  # Statistical analysis and visualizations
 │
-├── data/                                    # Folder for input microscopy data
-├── results/                                 # Output files including PDF plots and statistical summaries
+├── ...                                 
+├── ...                              
 ├── README.md                                # Documentation for repository
 └── LICENSE                                  # BSD-3-Clause license file
+
+## Installation
+
+To run the notebooks, ensure the following dependencies are installed:
+
+- Python 3.8+
+- Jupyter Notebook
+- Required Python libraries:
+  ```plaintext
+  numpy
+  pandas
+  matplotlib
+  scipy
+  statsmodels
+  skimage
+  natsort
+  ome-zarr
+  oiffile
+  read_roi
+  roifile
+  napari-superres
+  zarr
+
+You can install the dependencies using pip:
+pip install numpy pandas matplotlib scipy statsmodels scikit-image natsort ome-zarr oiffile read_roi roifile napari-superres zarr
+
+
+```markdown
+## Usage
+
+### Prepare Input Files
+- Place Olympus OIB files and associated ROI zip files in the `data/` directory (you need to create the directory).
+
+### Run the Notebooks
+- Open and execute the Jupyter notebooks in the provided order:
+  1. `01_oib2ome-zarr_full_batch.ipynb`: Converts OIB files to OME-Zarr format.
+  2. `02_MSSR_Manders_Colocalization_batch.ipynb`: Applies MSSR and calculates MOC.
+  3. `03_Vesicles_Organels_Toxin-Interaction_Analysis.ipynb`: Analyzes and visualizes toxin-organelle interactions.
+
+### View Results
+- Processed OME-Zarr files, statistical outputs, and visualization PDFs will be saved in the `results/` directory.
+
+## Citation
+
+If you use this repository for your research, please cite:
+
+- López-Molina et al., 2025. "In Vivo High-Resolution MSSR Microscopy Uncovers the Intoxication pathway of Bacillus thuringiensis Cry Toxins in insect gut implicating Actin Depolymerization, Massive Endocytosis, and Vesicle Secretion" *Manuscript in preparation*.
+
+## License
+
+This repository is licensed under the **BSD-3-Clause license**. See the [LICENSE](./LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please contact the repository maintainers via [GitHub Issues](https://github.com/adanog/CryVipTox_Colocalization_Study/issues).
+```
