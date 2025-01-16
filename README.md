@@ -15,7 +15,7 @@ The repository includes Jupyter notebooks that automate the following tasks:
 - **MSSR Integration**: Application of MSSR for sub-diffraction resolution enhancement.
 - **Colocalization Quantification**: Calculation of Manders Overlap Coefficients (M1 and M2) with mathematical rigor.
 - **Statistical Analysis**: Use of Kruskal-Wallis H-tests and Tukey's HSD for comparing experimental conditions.
-- **Visualization**: Generation of PDF files with boxplots and violin plots for clear data representation.
+- **Visualization**: Generation of violin plots for data representation.
 
 
 ## Installation
