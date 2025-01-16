@@ -66,11 +66,3 @@ If you use this repository for your research, please cite:
 
 - López-Molina et al., 2025. "In Vivo High-Resolution MSSR Microscopy Uncovers the Intoxication pathway of Bacillus thuringiensis Cry Toxins in insect gut implicating Actin Depolymerization, Massive Endocytosis, and Vesicle Secretion" *Manuscript in preparation*.
 
-## License
-
-This repository is licensed under the **BSD-3-Clause license**. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please contact the repository maintainers via [GitHub Issues](https://github.com/adanog/CryVipTox_Colocalization_Study/issues).
-```
