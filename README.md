@@ -19,7 +19,7 @@ The repository includes Jupyter notebooks that automate the following tasks:
 
 ## Repository Structure
 
-  ```plaintext
+plaintext
 CryVipTox_Colocalization_Study/
 │
 ├── 01_oib2ome-zarr_full_batch.ipynb         # Conversion of OIB files to OME-Zarr format
