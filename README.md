@@ -19,7 +19,7 @@ The repository includes Jupyter notebooks that automate the following tasks:
 
 ## Repository Structure
 
-`CryVipTox_Colocalization_Study/
+```CryVipTox_Colocalization_Study/
 │
 ├── 01_oib2ome-zarr_full_batch.ipynb         # Conversion of OIB files to OME-Zarr format
 ├── 02_MSSR_Manders_Colocalization_batch.ipynb  # MSSR application and MOC calculations
@@ -28,7 +28,7 @@ The repository includes Jupyter notebooks that automate the following tasks:
 ├── data/                                    # Folder for input microscopy data
 ├── results/                                 # Output files including PDF plots and statistical summaries
 ├── README.md                                # Documentation for repository
-└── LICENSE                                  # BSD-3-Clause license file`
+└── LICENSE                                  # BSD-3-Clause license file```
 
 ## Installation
 
