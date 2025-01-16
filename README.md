@@ -57,7 +57,7 @@ You can install the dependencies using pip:
 pip install numpy pandas matplotlib scipy statsmodels scikit-image natsort ome-zarr oiffile read_roi roifile napari-superres zarr
 
 
-```markdown
+
 ## Usage
 
 ### Prepare Input Files
