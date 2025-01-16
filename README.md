@@ -25,7 +25,7 @@ To run the notebooks, ensure the following dependencies are installed:
 - Python 3.8+
 - Jupyter Notebook
 - Required Python libraries:
-  ``plaintext
+
   numpy
   pandas
   matplotlib
@@ -41,6 +41,7 @@ To run the notebooks, ensure the following dependencies are installed:
   zarr
 
 You can install the dependencies using pip:
+
 pip install numpy pandas matplotlib scipy statsmodels scikit-image natsort ome-zarr oiffile read_roi roifile napari-superres zarr
 
 
