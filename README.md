@@ -28,7 +28,7 @@ The repository includes Jupyter notebooks that automate the following tasks:
 ├── data/                                    # Folder for input microscopy data
 ├── results/                                 # Output files including PDF plots and statistical summaries
 ├── README.md                                # Documentation for repository
-└── LICENSE                                  # BSD-3-Clause license file```
+└── LICENSE                                  # BSD-3-Clause license file`
 
 ## Installation
 
