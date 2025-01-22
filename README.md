@@ -1,4 +1,4 @@
-# CryVipTox Colocalization Study
+# CryTox Colocalization Study
 
 This repository contains scripts and resources for the **quantitative analysis of colocalization between toxins and cellular components** using high-resolution microscopy data. The study focuses on calculating Manders Overlap Coefficients (MOC) to evaluate interactions between Cry toxins and various organelles, leveraging super-resolution imaging techniques and statistical analysis.
 
