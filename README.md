@@ -7,7 +7,7 @@ This repository contains scripts and resources for the **quantitative analysis o
 The repository includes Jupyter notebooks that automate the following tasks:
 1. **File Conversion**: Converting Olympus OIB microscopy files to OME-Zarr format for compatibility with advanced analysis workflows.
 2. **Super-Resolution and Colocalization Analysis**: Enhancing image resolution using the Mean Shift Super Resolution (MSSR) algorithm and calculating colocalization metrics (M1 and M2) using Manders Overlap Coefficients.
-3. **Toxin-Organelle Interaction Analysis**: Comparing colocalization metrics across experimental conditions using statistical methods and visualizations (boxplots and violin plots).
+3. **Toxin-Organelle Interaction Analysis**: Comparing colocalization metrics across experimental conditions using statistical methods and visualizations plots.
 
 ## Key Features
 
