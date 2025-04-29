@@ -64,5 +64,5 @@ You can install the dependencies using pip:
 
 If you use this repository for your research, please cite:
 
-- López-Molina et al., 2025. "In Vivo High-Resolution MSSR Microscopy Uncovers the Intoxication pathway of Bacillus thuringiensis Cry Toxins in insect gut implicating Actin Depolymerization, Massive Endocytosis, and Vesicle Secretion" *Manuscript in preparation*.
+- López-Molina et al., 2025. "Cry11Aa Toxin of Bacillus thuringiensis interactions with intracellular organelles in Insect gut Implicating Actin Depolymerization, Massive Endocytosis, and Vesicle Secretion." *Manuscript in review*.
 
