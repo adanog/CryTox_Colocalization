@@ -27,7 +27,7 @@ All microscopy datasets used in this analysis are publicly available at the BioI
 **BioImage Archive Accession**: [S-BIAD1612](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1612)
 
 ## Publication
-Cite: López-Molina, Samira et al. “Cry11Aa toxin of Bacillus thuringiensis interactions with intracellular organelles in insect gut implicating actin depolymerization, massive endocytosis, and vesicle secretion.” International journal of biological macromolecules vol. 314 (2025): 144350. doi:10.1016/j.ijbiomac.2025.144350
+López-Molina, Samira et al. “Cry11Aa toxin of Bacillus thuringiensis interactions with intracellular organelles in insect gut implicating actin depolymerization, massive endocytosis, and vesicle secretion.” International journal of biological macromolecules vol. 314 (2025): 144350. doi:10.1016/j.ijbiomac.2025.144350
 
 ## Installation
 
