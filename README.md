@@ -26,6 +26,9 @@ All microscopy datasets used in this analysis are publicly available at the BioI
 *Cite as:* “Cry11Aa Toxin of Bacillus thuringiensis interactions with intracellular organelles in Insect gut Implicating Actin Depolymerization, Massive Endocytosis, and Vesicle Secretion”  
 **BioImage Archive Accession**: [S-BIAD1612](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1612)
 
+## Publication
+Cite: López-Molina, Samira et al. “Cry11Aa toxin of Bacillus thuringiensis interactions with intracellular organelles in insect gut implicating actin depolymerization, massive endocytosis, and vesicle secretion.” International journal of biological macromolecules vol. 314 (2025): 144350. doi:10.1016/j.ijbiomac.2025.144350
+
 ## Installation
 
 Each notebook includes inline `!pip install` commands for required packages. Alternatively, you can install all dependencies using:
